@@ -1,0 +1,218 @@
+group	income	code	country
+HIC	High income	ABW	Aruba
+LIC	Low income	AFG	Afghanistan
+LMC	Lower middle income	AGO	Angola
+UMC	Upper middle income	ALB	Albania
+HIC	High income	AND	Andorra
+HIC	High income	ARE	United Arab Emirates
+UMC	Upper middle income	ARG	Argentina
+UMC	Upper middle income	ARM	Armenia
+UMC	Upper middle income	ASM	American Samoa
+HIC	High income	ATG	Antigua and Barbuda
+HIC	High income	AUS	Australia
+HIC	High income	AUT	Austria
+UMC	Upper middle income	AZE	Azerbaijan
+LIC	Low income	BDI	Burundi
+HIC	High income	BEL	Belgium
+LMC	Lower middle income	BEN	Benin
+LIC	Low income	BFA	Burkina Faso
+LMC	Lower middle income	BGD	Bangladesh
+UMC	Upper middle income	BGR	Bulgaria
+HIC	High income	BHR	Bahrain
+HIC	High income	BHS	Bahamas, The
+UMC	Upper middle income	BIH	Bosnia and Herzegovina
+UMC	Upper middle income	BLR	Belarus
+LMC	Lower middle income	BLZ	Belize
+HIC	High income	BMU	Bermuda
+LMC	Lower middle income	BOL	Bolivia
+UMC	Upper middle income	BRA	Brazil
+HIC	High income	BRB	Barbados
+HIC	High income	BRN	Brunei Darussalam
+LMC	Lower middle income	BTN	Bhutan
+UMC	Upper middle income	BWA	Botswana
+LIC	Low income	CAF	Central African Republic
+HIC	High income	CAN	Canada
+HIC	High income	CHE	Switzerland
+HIC	High income	CHI	Channel Islands
+HIC	High income	CHL	Chile
+UMC	Upper middle income	CHN	China
+LMC	Lower middle income	CIV	Côte d'Ivoire
+LMC	Lower middle income	CMR	Cameroon
+LIC	Low income	COD	Congo, Dem. Rep.
+LMC	Lower middle income	COG	Congo, Rep.
+UMC	Upper middle income	COL	Colombia
+LMC	Lower middle income	COM	Comoros
+LMC	Lower middle income	CPV	Cabo Verde
+UMC	Upper middle income	CRI	Costa Rica
+UMC	Upper middle income	CUB	Cuba
+HIC	High income	CUW	Curaçao
+HIC	High income	CYM	Cayman Islands
+HIC	High income	CYP	Cyprus
+HIC	High income	CZE	Czech Republic
+HIC	High income	DEU	Germany
+LMC	Lower middle income	DJI	Djibouti
+UMC	Upper middle income	DMA	Dominica
+HIC	High income	DNK	Denmark
+UMC	Upper middle income	DOM	Dominican Republic
+LMC	Lower middle income	DZA	Algeria
+UMC	Upper middle income	ECU	Ecuador
+LMC	Lower middle income	EGY	Egypt, Arab Rep.
+LIC	Low income	ERI	Eritrea
+HIC	High income	ESP	Spain
+HIC	High income	EST	Estonia
+LIC	Low income	ETH	Ethiopia
+HIC	High income	FIN	Finland
+UMC	Upper middle income	FJI	Fiji
+HIC	High income	FRA	France
+HIC	High income	FRO	Faroe Islands
+LMC	Lower middle income	FSM	Micronesia, Fed. Sts.
+UMC	Upper middle income	GAB	Gabon
+HIC	High income	GBR	United Kingdom
+UMC	Upper middle income	GEO	Georgia
+LMC	Lower middle income	GHA	Ghana
+HIC	High income	GIB	Gibraltar
+LIC	Low income	GIN	Guinea
+LIC	Low income	GMB	Gambia, The
+LIC	Low income	GNB	Guinea-Bissau
+UMC	Upper middle income	GNQ	Equatorial Guinea
+HIC	High income	GRC	Greece
+UMC	Upper middle income	GRD	Grenada
+HIC	High income	GRL	Greenland
+UMC	Upper middle income	GTM	Guatemala
+HIC	High income	GUM	Guam
+UMC	Upper middle income	GUY	Guyana
+HIC	High income	HKG	Hong Kong SAR, China
+LMC	Lower middle income	HND	Honduras
+HIC	High income	HRV	Croatia
+LMC	Lower middle income	HTI	Haiti
+HIC	High income	HUN	Hungary
+LMC	Lower middle income	IDN	Indonesia
+HIC	High income	IMN	Isle of Man
+LMC	Lower middle income	IND	India
+HIC	High income	IRL	Ireland
+LMC	Lower middle income	IRN	Iran, Islamic Rep.
+UMC	Upper middle income	IRQ	Iraq
+HIC	High income	ISL	Iceland
+HIC	High income	ISR	Israel
+HIC	High income	ITA	Italy
+UMC	Upper middle income	JAM	Jamaica
+UMC	Upper middle income	JOR	Jordan
+HIC	High income	JPN	Japan
+UMC	Upper middle income	KAZ	Kazakhstan
+LMC	Lower middle income	KEN	Kenya
+LMC	Lower middle income	KGZ	Kyrgyz Republic
+LMC	Lower middle income	KHM	Cambodia
+LMC	Lower middle income	KIR	Kiribati
+HIC	High income	KNA	St. Kitts and Nevis
+HIC	High income	KOR	Korea, Rep.
+HIC	High income	KWT	Kuwait
+LMC	Lower middle income	LAO	Lao PDR
+UMC	Upper middle income	LBN	Lebanon
+LIC	Low income	LBR	Liberia
+UMC	Upper middle income	LBY	Libya
+UMC	Upper middle income	LCA	St. Lucia
+HIC	High income	LIE	Liechtenstein
+LMC	Lower middle income	LKA	Sri Lanka
+LMC	Lower middle income	LSO	Lesotho
+HIC	High income	LTU	Lithuania
+HIC	High income	LUX	Luxembourg
+HIC	High income	LVA	Latvia
+HIC	High income	MAC	Macao SAR, China
+HIC	High income	MAF	St. Martin (French part)
+LMC	Lower middle income	MAR	Morocco
+HIC	High income	MCO	Monaco
+UMC	Upper middle income	MDA	Moldova
+LIC	Low income	MDG	Madagascar
+UMC	Upper middle income	MDV	Maldives
+UMC	Upper middle income	MEX	Mexico
+UMC	Upper middle income	MHL	Marshall Islands
+UMC	Upper middle income	MKD	North Macedonia
+LIC	Low income	MLI	Mali
+HIC	High income	MLT	Malta
+LMC	Lower middle income	MMR	Myanmar
+UMC	Upper middle income	MNE	Montenegro
+LMC	Lower middle income	MNG	Mongolia
+HIC	High income	MNP	Northern Mariana Islands
+LIC	Low income	MOZ	Mozambique
+LMC	Lower middle income	MRT	Mauritania
+UMC	Upper middle income	MUS	Mauritius
+LIC	Low income	MWI	Malawi
+UMC	Upper middle income	MYS	Malaysia
+UMC	Upper middle income	NAM	Namibia
+HIC	High income	NCL	New Caledonia
+LIC	Low income	NER	Niger
+LMC	Lower middle income	NGA	Nigeria
+LMC	Lower middle income	NIC	Nicaragua
+HIC	High income	NLD	Netherlands
+HIC	High income	NOR	Norway
+LMC	Lower middle income	NPL	Nepal
+HIC	High income	NRU	Nauru
+HIC	High income	NZL	New Zealand
+HIC	High income	OMN	Oman
+LMC	Lower middle income	PAK	Pakistan
+UMC	Upper middle income	PAN	Panama
+UMC	Upper middle income	PER	Peru
+LMC	Lower middle income	PHL	Philippines
+HIC	High income	PLW	Palau
+LMC	Lower middle income	PNG	Papua New Guinea
+HIC	High income	POL	Poland
+HIC	High income	PRI	Puerto Rico
+LIC	Low income	PRK	Korea, Dem. People's Rep.
+HIC	High income	PRT	Portugal
+UMC	Upper middle income	PRY	Paraguay
+LMC	Lower middle income	PSE	West Bank and Gaza
+HIC	High income	PYF	French Polynesia
+HIC	High income	QAT	Qatar
+UMC	Upper middle income	ROU	Romania
+UMC	Upper middle income	RUS	Russian Federation
+LIC	Low income	RWA	Rwanda
+HIC	High income	SAU	Saudi Arabia
+LIC	Low income	SDN	Sudan
+LMC	Lower middle income	SEN	Senegal
+HIC	High income	SGP	Singapore
+LMC	Lower middle income	SLB	Solomon Islands
+LIC	Low income	SLE	Sierra Leone
+LMC	Lower middle income	SLV	El Salvador
+HIC	High income	SMR	San Marino
+LIC	Low income	SOM	Somalia
+UMC	Upper middle income	SRB	Serbia
+LIC	Low income	SSD	South Sudan
+LMC	Lower middle income	STP	São Tomé and Principe
+UMC	Upper middle income	SUR	Suriname
+HIC	High income	SVK	Slovak Republic
+HIC	High income	SVN	Slovenia
+HIC	High income	SWE	Sweden
+LMC	Lower middle income	SWZ	Eswatini
+HIC	High income	SXM	Sint Maarten (Dutch part)
+HIC	High income	SYC	Seychelles
+LIC	Low income	SYR	Syrian Arab Republic
+HIC	High income	TCA	Turks and Caicos Islands
+LIC	Low income	TCD	Chad
+LIC	Low income	TGO	Togo
+UMC	Upper middle income	THA	Thailand
+LMC	Lower middle income	TJK	Tajikistan
+UMC	Upper middle income	TKM	Turkmenistan
+LMC	Lower middle income	TLS	Timor-Leste
+UMC	Upper middle income	TON	Tonga
+HIC	High income	TTO	Trinidad and Tobago
+LMC	Lower middle income	TUN	Tunisia
+UMC	Upper middle income	TUR	Turkey
+UMC	Upper middle income	TUV	Tuvalu
+HIC	High income	TWN	Taiwan, China
+LMC	Lower middle income	TZA	Tanzania
+LIC	Low income	UGA	Uganda
+LMC	Lower middle income	UKR	Ukraine
+HIC	High income	URY	Uruguay
+HIC	High income	USA	United States
+LMC	Lower middle income	UZB	Uzbekistan
+UMC	Upper middle income	VCT	St. Vincent and the Grenadines
+HIC	High income	VGB	British Virgin Islands
+HIC	High income	VIR	Virgin Islands (U.S.)
+LMC	Lower middle income	VNM	Vietnam
+LMC	Lower middle income	VUT	Vanuatu
+LMC	Lower middle income	WSM	Samoa
+UMC	Upper middle income	XKX	Kosovo
+LIC	Low income	YEM	Yemen, Rep.
+UMC	Upper middle income	ZAF	South Africa
+LMC	Lower middle income	ZMB	Zambia
+LMC	Lower middle income	ZWE	Zimbabwe
